@@ -1,4 +1,4 @@
-# gnome-shell-extension-maximize-to-workspace
+# gnome-shell-extension-maximize-to-next-workspace
 
 Puts windows in a new workspace when maximized.
 
@@ -10,11 +10,11 @@ Puts windows in a new workspace when maximized.
 
 ### From GNOME Shell Extensions
 
-Install from [here](https://extensions.gnome.org/extension/1181/maximize-to-workspace/), or use the command `gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell --method org.gnome.Shell.Extensions.InstallRemoteExtension "'maximize-to-workspace@rliang.github.com'"`
+Install from [here](https://extensions.gnome.org/extension/1181/maximize-to-next-workspace/)
 
 ### From source
 
 ```
-git clone https://github.com/rliang/gnome-shell-extension-maximize-to-workspace ~/.local/share/gnome-shell/extensions/maximize-to-workspace@rliang.github.com
-gnome-shell-extension-tool -e maximize-to-workspace@rliang.github.com
+git clone https://github.com/taskkill/gnome-shell-extension-maximize-to-next-workspace ~/.local/share/gnome-shell/extensions/maximize-to-next-workspace@taskkill.github.com
+gnome-extensions enable maximize-to-next-workspace@taskkill.github.com
 ```
