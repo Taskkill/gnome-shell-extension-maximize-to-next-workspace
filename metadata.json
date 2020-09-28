@@ -1,7 +1,7 @@
 {
   "name": "Maximize To Next Workspace",
   "description": "Puts windows in a new workspace when maximized.",
-  "uuid": "maximize-to-next-workspace@github.github.com",
+  "uuid": "maximize-to-next-workspace@taskkill.github.com",
   "url": "https://github.com/taskkill/gnome-shell-extension-maximize-to-next-workspace",
   "shell-version": [
     "3.14",
