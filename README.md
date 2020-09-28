@@ -10,7 +10,7 @@ Puts windows in a new workspace when maximized.
 
 ### From GNOME Shell Extensions
 
-Install from [here](https://extensions.gnome.org/extension/1181/maximize-to-next-workspace/)
+Install from [here](https://extensions.gnome.org/extension/_/maximize-to-next-workspace/)
 
 ### From source
 
